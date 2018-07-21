@@ -11,7 +11,7 @@
 	<title>Saurav Kanchan</title>
 
   <!-- Web Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
 	<!-- Bootstrap core CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<!-- Font Awesome CSS -->
@@ -37,16 +37,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
-
-    <script src="assets/js/jquery.js"></script>
-    <script type="text/javascript">
-      submitted=false;
-      $('#contactForm').on('submit', function(e) {
-        $('#contactForm *').fadeOut(2000);
-        $('#contactForm').prepend('<div class="alert alert-success"><strong>Thank You!</strong>&nbsp; Your respose has been delivered.</div>');
-      });
-
-    </script>
+  <script >submitted=false;</script>
 </head>
 
 <body>
@@ -502,6 +493,7 @@
     </div>
 
     <!-- Javascript files -->
+    <script src="assets/js/jquery.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.stellar.min.js"></script>
     <script src="assets/js/jquery.sticky.js"></script>
@@ -513,7 +505,12 @@
     <script src="assets/js/jquery.shuffle.min.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <script src="assets/js/jquery.fitvids.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
     <script src="assets/js/scripts.js"></script>
+    <script type="text/javascript">
+      $('#contactForm').on('submit', function(e) {
+        $('#contactForm *').fadeOut(2000);
+        $('#contactForm').prepend('<div class="alert alert-success"><strong>Thank You!</strong>&nbsp; Your respose has been delivered.</div>');
+      });
+    </script>
   </body>
 </html>
