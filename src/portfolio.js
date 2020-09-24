@@ -28,8 +28,8 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
-  subTitle: "Blockchain developers and backend developer who likes to explore new tech",
+  title: "What I do",
+  subTitle: "Blockchain developer and backend developer who likes to explore new tech",
   skills: [
     emoji("⚡ Smart Contracts"),
     emoji("⚡ Cryptography"),
