@@ -29,7 +29,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Blockchain developer and backend developer who likes to explore new tech",
+  subTitle: "Blockchain and backend developer who likes to explore new tech",
   skills: [
     emoji("⚡ Smart Contracts"),
     emoji("⚡ Cryptography"),
@@ -231,7 +231,7 @@ const achievementSection = {
 
     {
       title: "Certfications",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      subtitle: "Completed Certifcation",
       image: require("./assets/images/ibm.png"),
       descBullets: [
         "IBM Blockchain Essentials",
