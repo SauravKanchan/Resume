@@ -210,7 +210,8 @@ const achievementSection = {
       image: require("./assets/images/research.gif"),
       descBullets: [
         "[1] Public Key Searchable Encryption Using Elliptic Curve Diffie-Hellman Cryptography",
-        "[2] Novel Approaches to Text Steganography"
+        "[2] Novel Approaches to Text Steganography",
+        "[3] Photovoltaic Cell Defect Detection in Solar Panel"
       ],
       footerLink: [
         {
@@ -219,7 +220,11 @@ const achievementSection = {
         },
         {
           name: "Research [2]",
-          url: "https://www.academia.edu/download/62139820/68-IJSES-V3N1020200219-31309-qsnvp.pdf"
+          url: "https://www.academia.edu/42015328/Novel_Approaches_to_Text_Steganography?coauthor_invite=e85c2e0d5f38a0cd6f8c3f7c49f44b0e&src=view_btn"
+        },
+        {
+          name: "Research [3]",
+          url: "https://digitalxplore.org/pps.php?pd_id=6934"
         }
       ]
     },
