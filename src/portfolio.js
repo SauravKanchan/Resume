@@ -231,7 +231,7 @@ const achievementSection = {
 
     {
       title: "Certfications",
-      subtitle: "Completed Certifcation",
+      subtitle: "",
       image: require("./assets/images/ibm.png"),
       descBullets: [
         "IBM Blockchain Essentials",
