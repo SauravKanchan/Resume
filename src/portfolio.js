@@ -23,6 +23,7 @@ const socialMediaLinks = {
   // facebook: "https://www.facebook.com/saurav.kanchan/",
   medium: "https://medium.com/@sauravnk30",
   // Instagram and Twitter are also supported in the links!
+  twitter: "https://twitter.com/sauravnk30"
 };
 
 // Your Skills Section
@@ -258,6 +259,12 @@ const blogSection = {
   blogs: [
     {
       url: "https://medium.com/coinmonks/compiling-deploying-and-interacting-with-smart-contract-using-javascript-641cf0342824",
+      title: "Anonymous web authentication",
+      description: "A modern approach to authenticate users without email and password. This blog discuss the problem " +
+        "with current implementation and it's solution"
+    },
+    {
+      url: "https://medium.com/coinmonks/compiling-deploying-and-interacting-with-smart-contract-using-javascript-641cf0342824",
       title: "Compiling, Deploying and Interacting with Smart Contract using JavaScript",
       description: "Instead of using truffle you can also compile, deploy and interact with smart contracts using ethersjs with ease"
     },
@@ -309,7 +316,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName: "twitter"//Replace "twitter" with your twitter username without @
+  userName: "sauravnk30"//Replace "twitter" with your twitter username without @
 
 };
 export {
