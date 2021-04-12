@@ -258,7 +258,7 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://medium.com/coinmonks/compiling-deploying-and-interacting-with-smart-contract-using-javascript-641cf0342824",
+      url: "https://medium.com/@sauravnk30/anonymous-web-authentication-4d41b2c26bee",
       title: "Anonymous web authentication",
       description: "A modern approach to authenticate users without email and password. This blog discuss the problem " +
         "with current implementation and it's solution"
