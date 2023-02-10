@@ -190,6 +190,7 @@ const achievementSection = {
       subtitle: "",
       image: require("./assets/images/hackathon.gif"),
       descBullets: [
+        "2nd Prize for LI.FI protocol in EthIndia 2022 and various sponsor prizes",
         "BitCamp 2018, CSI RAIT",
         "ByteCamp 2018, SIES",
         "FR. CRIT Hackathon 2018",
