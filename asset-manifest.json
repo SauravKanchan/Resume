@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e2452b2.chunk.css",
-    "main.js": "/static/js/main.216a9c97.chunk.js",
-    "main.js.map": "/static/js/main.216a9c97.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1b7f93a6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1b7f93a6.js.map",
-    "static/js/2.26de35bc.chunk.js": "/static/js/2.26de35bc.chunk.js",
-    "static/js/2.26de35bc.chunk.js.map": "/static/js/2.26de35bc.chunk.js.map",
+    "main.css": "/static/css/main.8e62a1b3.chunk.css",
+    "main.js": "/static/js/main.39488f3e.chunk.js",
+    "main.js.map": "/static/js/main.39488f3e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5404731d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5404731d.js.map",
+    "static/js/2.b400c6bb.chunk.js": "/static/js/2.b400c6bb.chunk.js",
+    "static/js/2.b400c6bb.chunk.js.map": "/static/js/2.b400c6bb.chunk.js.map",
     "static/css/3.879e9400.chunk.css": "/static/css/3.879e9400.chunk.css",
-    "static/js/3.9495dc8b.chunk.js": "/static/js/3.9495dc8b.chunk.js",
-    "static/js/3.9495dc8b.chunk.js.map": "/static/js/3.9495dc8b.chunk.js.map",
+    "static/js/3.70704342.chunk.js": "/static/js/3.70704342.chunk.js",
+    "static/js/3.70704342.chunk.js.map": "/static/js/3.70704342.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
-    "static/js/4.292e4dfb.chunk.js": "/static/js/4.292e4dfb.chunk.js",
-    "static/js/4.292e4dfb.chunk.js.map": "/static/js/4.292e4dfb.chunk.js.map",
+    "static/js/4.197e7c9a.chunk.js": "/static/js/4.197e7c9a.chunk.js",
+    "static/js/4.197e7c9a.chunk.js.map": "/static/js/4.197e7c9a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ceb64b910facd00bfb0d67e711c8987b.js": "/precache-manifest.ceb64b910facd00bfb0d67e711c8987b.js",
+    "precache-manifest.0b613a6a7e0d142ece0343999a235948.js": "/precache-manifest.0b613a6a7e0d142ece0343999a235948.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.879e9400.chunk.css.map": "/static/css/3.879e9400.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.6e2452b2.chunk.css.map": "/static/css/main.6e2452b2.chunk.css.map",
+    "static/css/main.8e62a1b3.chunk.css.map": "/static/css/main.8e62a1b3.chunk.css.map",
     "static/media/index.css": "/static/media/Pacifico-Regular.9b94499c.ttf",
     "static/media/blocklogy.jpg": "/static/media/blocklogy.d1c01f99.jpg",
     "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
@@ -33,9 +33,9 @@
     "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b7f93a6.js",
-    "static/js/2.26de35bc.chunk.js",
-    "static/css/main.6e2452b2.chunk.css",
-    "static/js/main.216a9c97.chunk.js"
+    "static/js/runtime-main.5404731d.js",
+    "static/js/2.b400c6bb.chunk.js",
+    "static/css/main.8e62a1b3.chunk.css",
+    "static/js/main.39488f3e.chunk.js"
   ]
 }
