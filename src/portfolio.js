@@ -9,7 +9,7 @@ const greeting = {
   username: "Saurav Kanchan",
   title: "Hi all, I'm Saurav",
   subTitle: emoji("A passionate blockchain developer from india. Most of my research effort is focused on improving ÐApp experience. " +
-    "Currently working in newfang"),
+    "Currently working in Arcana Networks"),
   resumeLink: "https://drive.google.com/file/d/1crV93LiTPor5ZirR7uTF-hQ1WkMRk4Da/view?usp=sharing"
 };
 
@@ -106,13 +106,15 @@ const workExperiences = {
   experience: [
     {
       role: "Blockchain Developer",
-      company: "Newfang",
-      companylogo: require("./assets/images/newfang-logo.png"),
+      company: "Arcana",
+      companylogo: require("./assets/images/arcana-white-logo.png"),
       date: "October 2019 – Present",
-      desc: "Currently working on skizzle which is a chrome extension to share mails in encrypted format",
+      desc: "",
       descBullets: [
-        "Develop smart contracts for the company",
-        "Develop and maintain backend servers"
+        "Design and implement smart contracts for the company",
+        "Build a back-end server that handles meta transactions and powers the dashboard",
+        "Design and implement access control and storage of arcana network",
+        "Protocol development"
       ]
     },
     {
@@ -157,8 +159,8 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/skizzle.png"),
-      link: "https://explorer.skizzle.email/"
+      image: require("./assets/images/arcana-old.png"),
+      link: "https://github.com/arcana-network/smart-contract"
     },
     {
       image: require("./assets/images/eraswaplife.png"),
@@ -258,6 +260,11 @@ const blogSection = {
 
   blogs: [
     {
+      url: "https://www.arcana.network/blog/web3-entry-barriers-with-meta-transactions",
+      title: "Breaking Web3 Entry Barriers with Meta Transactions",
+      description: "A Meta-Transaction refers to a method where a user signs and submits a transaction without incurring any gas fees."
+    },
+    {
       url: "https://medium.com/@sauravnk30/anonymous-web-authentication-4d41b2c26bee",
       title: "Anonymous web authentication",
       description: "A modern approach to authenticate users without email and password. This blog discuss the problem " +
@@ -284,8 +291,23 @@ const talkSection = {
 
   talks: [
     {
+      title: "How to begin your web3 developer journey?",
+      subtitle: "TPH's builderseries: part 8",
+      event_url: "https://twitter.com/0xTPH/status/1560246399102754816"
+    },
+    {
+      title: "Shamir's Secete Sharing",
+      subtitle: "Cryptographic algorithm to share secrete",
+      event_url: "https://twitter.com/ArcanaNetwork/status/1464150537901801474"
+    }, 
+    {
+      title: "Breaking into Blockchain",
+      subtitle: "Practical workshop on the fundamentals of Blockchain technology.",
+      event_url: "https://twitter.com/0xTPH/status/1560246399102754816"
+    },
+    {
       title: "Faculty development program in UMIT",
-      subtitle: "Blockchain Basics",
+      subtitle: "Training program focused on the Blockchain technology",
       event_url: "https://www.picuki.com/media/2068816140826916633"
     },
     {

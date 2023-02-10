@@ -8,8 +8,8 @@ export default function ExperienceCard({ cardInfo }) {
 
   function getColorArrays() {
     const colorThief = new ColorThief();
-    if(cardInfo.company.toLowerCase() === "newfang"){
-      setColorArrays([92, 154, 255]);
+    if(cardInfo.company.toLowerCase() === "arcana"){
+      setColorArrays([120,120,120]);
     }else{
       setColorArrays(colorThief.getColor(imgRef.current));
     }
