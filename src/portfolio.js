@@ -297,7 +297,7 @@ const talkSection = {
       event_url: "https://twitter.com/0xTPH/status/1560246399102754816"
     },
     {
-      title: "Shamir's Secete Sharing",
+      title: "Shamir's Secret Sharing",
       subtitle: "Cryptographic algorithm to share secrete",
       event_url: "https://twitter.com/ArcanaNetwork/status/1464150537901801474"
     }, 
@@ -332,7 +332,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-9594464390",
-  email_address: "sauravn@gmail.com"
+  email_address: "sauravnk30@gmail.com"
 };
 
 //Twitter Section
